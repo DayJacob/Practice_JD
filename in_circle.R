@@ -6,3 +6,5 @@ approx_pi <- function(n) {
   area <- 4 * length(ix)/n
   return(area)
 }
+
+#Nicole is here
